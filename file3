@@ -8,6 +8,3 @@ trzeci plik - tylko branch three_file
 
  //verify that method was never called on a mock
  verify(mockOne, never()).add("two");
-
- //verify that other mocks were not interacted
- verifyZeroInteractions(mockTwo, mockThree);
