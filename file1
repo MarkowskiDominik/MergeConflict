@@ -1,1 +1,5 @@
-pierwszy plik tekstowy
+pierwszy plik tekstowy - wersja 2
+
+@Mock private ArticleCalculator calculator;
+@Mock private ArticleDatabase database;
+@Mock private UserProvider userProvider;
