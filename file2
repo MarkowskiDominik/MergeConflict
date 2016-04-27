@@ -1,4 +1,5 @@
-drugi plik - wersja 1
+drugi plik - wersja 2
+zmiana po utworzeniu three_file branch
 
 when(mock.someMethod("some arg"))
    .thenThrow(new RuntimeException())
