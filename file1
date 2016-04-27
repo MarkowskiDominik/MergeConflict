@@ -1,4 +1,5 @@
-pierwszy plik tekstowy - wersja 2
+pierwszy plik tekstowy - wersja 3
+utowrzenie branch z edytowanymi plikami z master
 
 @Mock private ArticleCalculator calculator;
 @Mock private ArticleDatabase database;

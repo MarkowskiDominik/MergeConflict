@@ -1,5 +1,6 @@
-drugi plik - wersja 2
+drugi plik - wersja 3
 zmiana po utworzeniu three_file branch
+utowrzenie branch z edytowanymi plikami z master
 
 when(mock.someMethod("some arg"))
    .thenThrow(new RuntimeException())
