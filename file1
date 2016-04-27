@@ -1,6 +1,7 @@
 pierwszy plik tekstowy - wersja 3
 utowrzenie branch z edytowanymi plikami z master
+bardziej zaawansowana edycja
 
-@Mock private ArticleCalculator calculator;
-@Mock private ArticleDatabase database;
+@Mock private ArticleCalculator articleCalculator;
+@Mock private ArticleService articleService;
 @Mock private UserProvider userProvider;
