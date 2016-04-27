@@ -4,3 +4,7 @@ zmiana po utworzeniu three_file branch
 when(mock.someMethod("some arg"))
    .thenThrow(new RuntimeException())
    .thenReturn("foo");
+   
+ //using mocks
+ mockedList.add("one");
+ mockedList.add("two");
