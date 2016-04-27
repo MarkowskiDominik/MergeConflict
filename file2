@@ -1,0 +1,5 @@
+drugi plik - wersja 1
+
+when(mock.someMethod("some arg"))
+   .thenThrow(new RuntimeException())
+   .thenReturn("foo");
