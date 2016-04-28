@@ -1,9 +1,13 @@
-drugi plik - wersja 2
+drugi plik - wersja 3
 zmiana po utworzeniu three_file branch
+utowrzenie branch z edytowanymi plikami z master
 
 edycja file1, file2 na dwóch branch
 
-when(mock.someMethod("some arg")).thenReturn("foo");
+when(mock.someMethod("some arg"))
+   .thenThrow(new RuntimeException())
+   .thenReturn("fooException");
+when(mock.someMethod(anyString()).thenReturn("foo");
    
  //using mocks
  mockedList.add("one");
