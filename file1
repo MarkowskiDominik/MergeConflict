@@ -1,5 +1,6 @@
 pierwszy plik tekstowy - wersja 2
 
+edycja file1, file2 na dwóch branch
+
 @Mock private ArticleCalculator calculator;
 @Mock private ArticleDatabase database;
-@Mock private UserProvider userProvider;
